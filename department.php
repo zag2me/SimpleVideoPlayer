@@ -13,7 +13,7 @@ $department = htmlspecialchars($_GET["d"]);
 
 <body>
 
-<p class='headertext'>Simple Video Player<br><img src='images/header.png' width='64'></p>
+<p class='headertext'>School Web Video Server<br><img src='images/header.png' width='64'></p>
 <P class='blockvideos'>
 <table>
 <colgroup>

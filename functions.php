@@ -1,6 +1,6 @@
 <?php
+# Snippet from PHP Share: http://www.phpshare.org
 
-# Return the filesize in simple language
     function formatSizeUnits($bytes)
     {
         if ($bytes >= 1073741824)
